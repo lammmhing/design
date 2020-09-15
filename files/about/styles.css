@@ -2199,7 +2199,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:834px;
+  width:854px;
   height:57px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2219,7 +2219,7 @@
   position:absolute;
   left:435px;
   top:1341px;
-  width:834px;
+  width:854px;
   height:57px;
   display:flex;
   font-family:'PingFangSC-Medium', 'PingFang SC Medium', 'PingFang SC', sans-serif;
@@ -2473,7 +2473,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:91px;
+  width:126px;
   height:25px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2491,7 +2491,7 @@
   position:absolute;
   left:1016px;
   top:639px;
-  width:91px;
+  width:126px;
   height:25px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
@@ -2515,7 +2515,7 @@
   position:absolute;
   left:-1px;
   top:-1px;
-  width:92px;
+  width:125px;
   height:5px;
 }
 #u680 {
@@ -2523,7 +2523,7 @@
   position:absolute;
   left:1017px;
   top:665px;
-  width:89px;
+  width:122px;
   height:2px;
   display:flex;
 }
@@ -2543,9 +2543,9 @@
 #u681 {
   border-width:0px;
   position:absolute;
-  left:1012px;
+  left:1007px;
   top:630px;
-  width:100px;
+  width:144px;
   height:54px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
